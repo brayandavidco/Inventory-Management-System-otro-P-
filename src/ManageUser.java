@@ -171,7 +171,7 @@ public class ManageUser extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void formComponentShown(java.awt.event.ComponentEvent evt) {//GEN-FIRST:event_formComponentShown
-       
+       //prueba guardado
         
         
     }//GEN-LAST:event_formComponentShown
